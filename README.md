@@ -10,3 +10,4 @@ Execute flutter run para rodar o projeto
 
 - Pedro
 - Gustavo
+- Igor
