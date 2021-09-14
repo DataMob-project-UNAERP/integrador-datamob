@@ -9,3 +9,4 @@ Execute flutter run para rodar o projeto
 ## Alunos
 
 - Pedro
+- Gustavo
