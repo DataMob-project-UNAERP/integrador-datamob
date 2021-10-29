@@ -1,6 +1,6 @@
 {
-    "name": "integrador_datamob",
-    "short_name": "integrador_datamob",
+    "name": "datamob",
+    "short_name": "datamob",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
