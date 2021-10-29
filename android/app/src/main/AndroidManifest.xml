@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.integrador_datamob">
+    package="com.example.datamob">
    <application
-        android:label="integrador_datamob"
+        android:label="datamob"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
