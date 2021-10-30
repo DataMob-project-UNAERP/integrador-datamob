@@ -1,5 +1,7 @@
 import 'package:datamob/apont_broca_gigante_item_page.dart';
 import 'package:datamob/modulo_broca_gigante.dart';
+import 'package:datamob/modulo_camera_page.dart';
+import 'package:datamob/modulo_mapas_page.dart';
 import 'package:datamob/modulo_perdas_page.dart';
 import 'package:datamob/modulo_sphenophorus_page.dart';
 import 'package:datamob/perdas_item_page.dart';
@@ -32,6 +34,8 @@ class AppWidget extends StatelessWidget {
         '/outraspragas_item': (context) => OutrasPragasItem(),
         '/brocagigante_item': (context) => BocrocaGiganteItem(),
         '/perdas_item': (context) => PerdasItem(),
+        '/modulo_camera': (context) => ModuloCamera(),
+        '/modulo_mapas': (context) => ModuloMapas()
       
       },
       

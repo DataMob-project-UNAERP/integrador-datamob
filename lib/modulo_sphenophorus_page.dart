@@ -20,14 +20,14 @@ class SphenophorusModulo extends StatelessWidget {
             ),
             actions: [
               IconButton(onPressed: (){
-
+                 Navigator.of(context).pushNamed('/modulo_mapas');
               },
               icon: Icon(
                 Icons.map
                 )
               ),
               IconButton(onPressed: (){
-
+                Navigator.of(context).pushNamed('/modulo_camera');
               }, icon: Icon(
                 Icons.camera
                 )
@@ -135,8 +135,6 @@ class SphenophorusModulo extends StatelessWidget {
                             
                             if(praga_value == 'SPHENOPHORUS'){
                                 Navigator.of(context).pushNamed('/sphenophorus_item');
-                            }else if(praga_value == 'OUTRAS PRAGAS'){
-                                Navigator.of(context).pushNamed('/outraspragas_item');
                             }
                               
                           }

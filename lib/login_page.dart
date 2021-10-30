@@ -67,7 +67,7 @@ class LoginPage extends StatelessWidget {
                   
                     
                     onPressed: () { 
-                    Navigator.of(context).pushNamed('/dashcentral');
+                    Navigator.of(context).pushReplacementNamed('/dashcentral');
                     },
                   child: Text(
                   "Entrar"

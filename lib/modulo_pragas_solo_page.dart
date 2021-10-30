@@ -20,14 +20,14 @@ class ApontPragas extends StatelessWidget {
             ),
             actions: [
               IconButton(onPressed: (){
-
+                 Navigator.of(context).pushNamed('/modulo_mapas');
               },
               icon: Icon(
                 Icons.map
                 )
               ),
               IconButton(onPressed: (){
-
+                Navigator.of(context).pushNamed('/modulo_camera');
               }, icon: Icon(
                 Icons.camera
                 )
