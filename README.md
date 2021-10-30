@@ -1,10 +1,6 @@
 # integrador_datamob
 
-A new Flutter project.
-
-## Getting Started
-
-Execute flutter run para rodar o projeto
+Projeto realizado para nota do desafio.
 
 ## Alunos
 
